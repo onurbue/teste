@@ -4,10 +4,45 @@
       "month": 2,
       "year": 2023,
       "store_number": 136,
-      "store_name": "Fafe"
+      "store_name": "Fafe",
+      "planned_sales": 12000,
+      "last_year_sales": 9000,
+      "sales_factor": 300,
+      "waste": 400,
     }
   ],
-  "sales": {
-
-  }
+  "sales": [
+    {
+      "date": "01/02/2023",
+      "lastYearSales": 1000,
+      "plannedSales": 1500,
+      "realSales": 1200,
+      "realHours": 2,
+      "realWaste": 10,
+    },
+    {
+      "date": "02/02/2023",
+      "lastYearSales": 1000,
+      "plannedSales": 1500,
+      "realSales": 1200,
+      "realHours": 2,
+      "realWaste": 10,
+    },
+        {
+      "date": "03/02/2023",
+      "lastYearSales": 1000,
+      "plannedSales": 1500,
+      "realSales": 1200,
+      "realHours": 2,
+      "realWaste": 10,
+    },
+        {
+      "date": "04/02/2023",
+      "lastYearSales": 1000,
+      "plannedSales": 1500,
+      "realSales": 1200,
+      "realHours": 2,
+      "realWaste": 10,
+    }
+  ]
 }

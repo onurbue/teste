@@ -1,11 +1,13 @@
 {
-  "posts": [
+  "header_info": [
     {
-      "id": 1,
-      "title": "hello"
+      "month": 2,
+      "year": 2023,
+      "store_number": 136,
+      "store_name": "Fafe"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "sales": {
+
   }
 }
